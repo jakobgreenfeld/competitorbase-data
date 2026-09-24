@@ -1,0 +1,62 @@
+{
+  "read_on": "24 September 2026",
+  "source": "https://competitorbase.com/competitor-monitoring-cost",
+  "tools": [
+    {
+      "name": "CompetitorBase",
+      "domain": "competitorbase.com",
+      "url": "https://competitorbase.com/",
+      "pricing_url": "https://competitorbase.com/pricing",
+      "does": "Growth-channel report per competitor domain (ads, outbound, SEO, PR, backlinks, reviews, socials, founder audience, buzz), then a daily re-check with email alerts.",
+      "price": "Starter $29/month (10 competitors); Pro $39/month (20); Scale $99/month (100)"
+    },
+    {
+      "name": "Competely",
+      "domain": "competely.ai",
+      "url": "https://competely.ai/",
+      "pricing_url": "https://competely.ai/pricing",
+      "does": "AI competitive analysis across pricing, features, messaging and marketing, plus competitive briefs by email.",
+      "price": "Starter $39/month; Pro $59/month; Scale $99/month"
+    },
+    {
+      "name": "Visualping",
+      "domain": "visualping.io",
+      "url": "https://visualping.io/",
+      "pricing_url": "https://visualping.io/pricing",
+      "does": "Web page change monitoring for pages you choose.",
+      "price": "Free (5 pages); Personal from $14/month (10 pages); Business from $140/month (200 pages)"
+    },
+    {
+      "name": "CompetitorTrack",
+      "domain": "competitortrack.io",
+      "url": "https://competitortrack.io/",
+      "pricing_url": "https://competitortrack.io/pricing",
+      "does": "Collects competitors' marketing emails in a shared inbox, with review, social and website monitoring.",
+      "price": "Free for 1 competitor; Pro $10 per competitor per month; custom for 10+"
+    },
+    {
+      "name": "Unkover",
+      "domain": "unkover.com",
+      "url": "https://unkover.com/",
+      "pricing_url": "https://unkover.com/pricing",
+      "does": "Competitor page and email monitoring.",
+      "price": "Base $99/month (5 competitors); Professional $199/month (10); annual $79 and $159"
+    },
+    {
+      "name": "Klue",
+      "domain": "klue.com",
+      "url": "https://klue.com/",
+      "pricing_url": "https://klue.com/pricing",
+      "does": "Competitive intelligence and win-loss platform for sales and product marketing teams.",
+      "price": "not published (demo request)"
+    },
+    {
+      "name": "Crayon",
+      "domain": "crayon.co",
+      "url": "https://www.crayon.co/",
+      "pricing_url": "https://www.crayon.co/pricing",
+      "does": "Competitive intelligence platform with battlecards.",
+      "price": "not published (estimate on request)"
+    }
+  ]
+}
